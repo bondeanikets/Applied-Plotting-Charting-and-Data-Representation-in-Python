@@ -1,0 +1,2 @@
+Link 1: https://data.gov.sg/dataset/application-with-bank-loan
+Link 2: https://data.gov.sg/dataset/total-loans-to-non-bank-customers
